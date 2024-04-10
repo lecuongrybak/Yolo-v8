@@ -1,8 +1,8 @@
 task: detect
 mode: train
 model: yolov8n.yaml
-data: D:\Yolo v8\datasets\data.yaml
-epochs: 1
+data: datasetold\dataold.yaml
+epochs: 10
 time: null
 patience: 50
 batch: 16
